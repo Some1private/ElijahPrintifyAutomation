@@ -37,6 +37,3 @@ This application is licensed under the [MIT License](LICENSE).
 
 This application is not officially endorsed or affiliated with Printify. Use it at your own risk. The developer is not responsible for any consequences arising from the use of this application.
 
----
-
-Feel free to customize the README file based on your specific application details and requirements. Include any additional sections or information that you think would be helpful for users.
