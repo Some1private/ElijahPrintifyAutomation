@@ -37,10 +37,6 @@ Getting Started
 - Product Publishing hasn't been fully test
 - If Internet issues occur, the application will lag and freeze until connection is restored
 
- License
-
-This application is licensed under the [MIT License](LICENSE).
-
  Disclaimer
 
 This application is not officially endorsed or affiliated with Printify. Use it at your own risk. The developer is not responsible for any consequences arising from the use of this application.
