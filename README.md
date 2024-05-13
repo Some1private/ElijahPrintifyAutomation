@@ -1,5 +1,9 @@
 Elijah's Printify Automation is a Windows application that automates the process of creating and publishing products on the Printify platform.
 
+DEMO:
+
+https://github.com/Some1private/ElijahPrintifyAutomation/assets/88380595/1b84d03f-12d9-4031-b4a4-58293479af1d
+
 The first step is creating your base products. 
 Your base products are the products that will be used to exract information from and bulk generate new products with different images.
 
@@ -29,6 +33,10 @@ Getting Started
 - Internet connection
 - Printify account with API access
 
+ Knows Bugs
+- Product Publishing hasn't been fully test
+- If Internet issues occur, the application will lag and freeze until connection is restored
+
  License
 
 This application is licensed under the [MIT License](LICENSE).
@@ -36,4 +44,3 @@ This application is licensed under the [MIT License](LICENSE).
  Disclaimer
 
 This application is not officially endorsed or affiliated with Printify. Use it at your own risk. The developer is not responsible for any consequences arising from the use of this application.
-
