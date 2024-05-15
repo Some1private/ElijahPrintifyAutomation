@@ -1,5 +1,7 @@
 Elijah's Printify Automation is a Windows application that automates the process of creating and publishing products on the Printify platform.
 
+Download: https://github.com/Some1private/ElijahPrintifyAutomation/releases
+
 DEMO:
 
 https://github.com/Some1private/ElijahPrintifyAutomation/assets/88380595/1b84d03f-12d9-4031-b4a4-58293479af1d
