@@ -2,14 +2,10 @@ Elijah's Printify Automation is a Windows application that automates the process
 
 Download: https://github.com/Some1private/ElijahPrintifyAutomation/releases
 
-DEMO:
+Tutorial & Demo:
 
-https://github.com/Some1private/ElijahPrintifyAutomation/assets/88380595/1b84d03f-12d9-4031-b4a4-58293479af1d
+https://github.com/Some1private/ElijahPrintifyAutomation/assets/88380595/a9c669dc-0fd2-4b7f-b581-6dd25042197f
 
-The first step is creating your base products. 
-Your base products are the products that will be used to exract information from and bulk generate new products with different images.
-
-Example of use: I create 3 base products (Tshirt, Hoodie, Bag) on Printify. I launch the Printify Automation application and enter my API key, select my shop, and select the 3 base products. Then I upload 500 images in the next step in the application. I press create products and the result will be 1500 products (500 Tshirts, 500 Hoodies, 500 Bags) will be created automatically with the option to publish all the newly created products to my Store (Shopify, and all others) in one click.
 
  Features
 
@@ -29,15 +25,16 @@ Getting Started
 9. Click "Create Products" to initiate the product creation process.
 10. Once the products are created, click "Publish Products" to make them publish from printify to your store platform.
 
+The process is important to understand. You need to create your base products. 
+Your base products are the products that will be used to exract information from and bulk generate new products with different images.
+
+Example of use: I create 3 base products (Tshirt, Hoodie, Bag) on Printify. I launch the Printify Automation application and enter my API key, select my shop, and select the 3 base products. Then I upload 500 images in the next step in the application. I press create products and the result will be 1500 products (500 Tshirts, 500 Hoodies, 500 Bags) will be created automatically with the option to publish all the newly created products to my Store (Shopify, and all others) in one click.
+
  Requirements
 
 - Windows operating system
 - Internet connection
 - Printify account with API access
-
- Knows Bugs
-- Product Publishing hasn't been fully test
-- If Internet issues occur, the application will lag and freeze until connection is restored
 
  Disclaimer
 
