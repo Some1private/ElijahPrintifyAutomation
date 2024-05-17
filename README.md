@@ -14,7 +14,7 @@ Getting Started
 7. Go to Printify and create your base products. What's a base product? Check the FAQ below
 8. Go to the application and choose the base products by selecting them from the product list or entering comma-separated product IDs.
 9. Click "Choose Images" to select the images you want to use to create new products and then click "Upload Images".
-8. Optionally, you can enter custom values for image positioning (X, Y), scaling, and angle. See https://developers.printify.com/#image-positioning to know the correct values to enter.
+8. Optionally, you can enter custom values for image positioning (X, Y), scaling, and angle.
 9. Click "Create Products" to initiate the product creation process.
 10. Once the products are created, click "Publish Products" to make them publish from printify to your store platform.
 
@@ -41,6 +41,11 @@ By using these custom scopes when generating your API key the program will only 
  - Read products (Needed to fetch your base products to select and extract information)
  - Write products (Needed to create products)
  - Write images (Needed to upload your images)
+
+How does the custom values work?
+By default each new product created will use the same values as the corrosponding base product.
+If you enter a custom value, that custom image position value will be used on all the created products. Recommended only if choosing 1 base product, not multiple.
+To view the correct values to enter: https://developers.printify.com/#image-positioning
 
 
  Requirements
