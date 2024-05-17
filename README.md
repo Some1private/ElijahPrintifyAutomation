@@ -4,6 +4,8 @@ https://github.com/Some1private/ElijahPrintifyAutomation/assets/88380595/a9c669d
 
 Download: https://github.com/Some1private/ElijahPrintifyAutomation/releases
 
+
+
 Getting Started
 
 1. Download the Windows executable file from the release page.
@@ -17,6 +19,8 @@ Getting Started
 8. Optionally, you can enter custom values for image positioning (X, Y), scaling, and angle.
 9. Click "Create Products" to initiate the product creation process.
 10. Once the products are created, click "Publish Products" to make them publish from printify to your store platform.
+
+
 
 FAQ
 
@@ -48,11 +52,14 @@ If you enter a custom value, that custom image position value will be used on al
 To view the correct values to enter: https://developers.printify.com/#image-positioning
 
 
+
  Requirements
 
 - Windows operating system
 - Internet connection
 - Printify account with API access
+
+
 
  Disclaimer
 
