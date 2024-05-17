@@ -12,7 +12,7 @@ Getting Started
 4. Enter your Printify API key and click "Fetch Shops" to retrieve the list of shops associated with your account.
 6. Select a shop from the dropdown menu to work with.
 7. Go to Printify and create your base products. What's a base product? Check the FAQ below
-8. Go back to the application and choose the base products by selecting them from the product list or entering comma-separated product IDs.
+8. Go to the application and choose the base products by selecting them from the product list or entering comma-separated product IDs.
 9. Click "Choose Images" to select the images you want to use to create new products and then click "Upload Images".
 8. Optionally, you can enter custom values for image positioning (X, Y), scaling, and angle. See https://developers.printify.com/#image-positioning to know the correct values to enter.
 9. Click "Create Products" to initiate the product creation process.
