@@ -25,6 +25,24 @@ Your base products are the products that will be "duplicated" in able to create 
 
 Example of use: I create 3 base products (Tshirt, Hoodie, Bag) on Printify. I launch the Printify Automation application and enter my API key, select my shop, and select the 3 base products. Then I upload 500 images in the next step in the application. I press create products and the result will be 1500 products (500 Tshirts, 500 Hoodies, 500 Bags) will be created automatically with the option to publish all the newly created products to my Store (Shopify, and all others) in one click.
 
+What scopes does the program need?
+I understand that you might not want to give full scopes access when generating your api key so the program doesn't have full access to your account.
+You can select the custom scopes option and select the following for all the options in the program to work correctly:
+
+Shops.read
+Catalog.read
+Products.read
+Products.write
+Uploads.write
+
+By using these custom scopes when generating your API key the program will only be able to:
+ - Read the name/ID of your shops (Needed to select your shop)
+ - Read printifys catalogue of products (Needed to use the Append Blueprint Title option)
+ - Read products (Needed to fetch your base products to select and extract information)
+ - Write products (Needed to create products)
+ - Write images (Needed to upload your images)
+
+
  Requirements
 
 - Windows operating system
