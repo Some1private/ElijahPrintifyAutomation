@@ -28,10 +28,10 @@ The Printify Automation Tool is a Windows application that streamlines the proce
 
  **FAQ**
 
- **What's a base product?**
+ **What's a base product?**  
 Your base products are the products that will be duplicated to create new products with the uploaded images. For example, if you create 3 base products (T-shirt, Hoodie, Bag) on Printify and upload 500 images, the application will create 1500 products (500 T-shirts, 500 Hoodies, 500 Bags) automatically. You can then publish all the newly created products to your store (Shopify, and others) with a single click.
 
- **What scopes does the program need?**
+ **What scopes does the program need?**  
 To ensure the program functions correctly without granting full access to your account, you can select the following custom scopes when generating your API key:
 
 - Shops.read
@@ -47,7 +47,7 @@ These custom scopes allow the program to:
 - Write products (needed to create products)
 - Write images (needed to upload your images)
 
- **How do the custom values work?**
+ **How do the custom values work?**  
 By default, each new product created will use the same values as the corresponding base product. If you enter a custom value, that custom image position value will be used on all the created products. It is recommended to use custom values only when choosing a single base product, not multiple. For more information on the correct values to enter, refer to the [Printify API documentation](https://developers.printify.com/image-positioning).
 
  **Requirements**
