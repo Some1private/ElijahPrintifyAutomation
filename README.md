@@ -1,12 +1,9 @@
-Tutorial & Demo:
-
 https://github.com/Some1private/ElijahPrintifyAutomation/assets/88380595/a9c669dc-0fd2-4b7f-b581-6dd25042197f
 
-Download: https://github.com/Some1private/ElijahPrintifyAutomation/releases
+**Download:** https://github.com/Some1private/ElijahPrintifyAutomation/releases
 
 
-
-Getting Started
+**Getting Started**
 
 1. Download the Windows executable file from the release page.
 2. Run the executable file to launch the application.
@@ -20,16 +17,14 @@ Getting Started
 9. Click "Create Products" to initiate the product creation process.
 10. Once the products are created, click "Publish Products" to make them publish from printify to your store platform.
 
+**FAQ**
 
-
-FAQ
-
-What's a base product?
+**What's a base product?**
 Your base products are the products that will be "duplicated" in able to create new products with the images you uploaded. 
 
 Example of use: I create 3 base products (Tshirt, Hoodie, Bag) on Printify. I launch the Printify Automation application and enter my API key, select my shop, and select the 3 base products. Then I upload 500 images in the next step in the application. I press create products and the result will be 1500 products (500 Tshirts, 500 Hoodies, 500 Bags) will be created automatically with the option to publish all the newly created products to my Store (Shopify, and all others) in one click.
 
-What scopes does the program need?
+**What scopes does the program need?**
 I understand that you might not want to give full scopes access when generating your api key so the program doesn't have full access to your account.
 You can select the custom scopes option and select the following for all the options in the program to work correctly:
 
@@ -46,21 +41,17 @@ By using these custom scopes when generating your API key the program will only 
  - Write products (Needed to create products)
  - Write images (Needed to upload your images)
 
-How does the custom values work?
+**How does the custom values work?**
 By default each new product created will use the same values as the corrosponding base product.
 If you enter a custom value, that custom image position value will be used on all the created products. Recommended only if choosing 1 base product, not multiple.
 To view the correct values to enter: https://developers.printify.com/#image-positioning
 
-
-
- Requirements
+ **Requirements**
 
 - Windows operating system
 - Internet connection
 - Printify account with API access
 
-
-
- Disclaimer
+ **Disclaimer**
 
 This application is not officially endorsed or affiliated with Printify. Use it at your own risk. The developer is not responsible for any consequences arising from the use of this application.
