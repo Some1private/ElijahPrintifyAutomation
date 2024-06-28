@@ -1,8 +1,10 @@
 https://github.com/Some1private/ElijahPrintifyAutomation/assets/88380595/a9c669dc-0fd2-4b7f-b581-6dd25042197f
 
-UPDATE: New website (To receive a license) and web app available still in beta stage.
-printifyautomation.com
-Printify.streamlit.app
+UPDATE: New website (To receive a license) and web app available.
+
+https://printifyautomation.com
+
+https://Printify.streamlit.app
 
 The Printify Automation Tool is a Windows application that streamlines the process of creating and publishing products on Printify. It allows you to easily duplicate base products with multiple images, saving you time and effort.
 
