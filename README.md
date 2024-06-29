@@ -1,6 +1,6 @@
 https://github.com/Some1private/ElijahPrintifyAutomation/assets/88380595/a9c669dc-0fd2-4b7f-b581-6dd25042197f
 
-New Web App: https://printify.streamlit.app/
+New Web App (Beta): https://printify.streamlit.app/
 
 To receive a free license key for 24 hours: https://printifyautomation.com/
 
