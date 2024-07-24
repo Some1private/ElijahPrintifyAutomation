@@ -1,66 +1,72 @@
 
 [l](https://github.com/user-attachments/assets/580e9004-8df6-433d-b027-1094fcfd513d)
 
-Free beta web app released: https://app.printifyautomation.com/
+# Printify Automation Tool Documentation
 
-To receive a free trial license key for the software: https://printifyautomation.com/
+## Web App
 
-The Printify Automation Tool is a Windows application that streamlines the process of creating and publishing products on Printify. It allows you to easily duplicate base products with multiple images, saving you time and effort.
+https://app.printifyautomation.com/
 
- **Features**
+## Overview
 
-- Fetch shops associated with your Printify account
-- Select base products to duplicate
-- Upload multiple images to create new products
-- Customize image positioning, scaling, and angle
-- Use options the title for each new products such as using the image file name, or Appending the blueprint title.
-- Create and publish products to your store platform with a single click
+This tool automates product creation on Printify, allowing users to generate thousands of products in minutes. It streamlines the process by using existing product templates to create new variations with custom images.
 
- **Getting Started**
+## Key Features
 
-1. Download the Windows executable file from the [release page](https://github.com/Some1private/ElijahPrintifyAutomation/releases).
-2. Run the executable file to launch the application.
-3. Enter your license key and click "Activate License".
-4. Enter your Printify API key and click "Fetch Shops" to retrieve the list of shops associated with your account.
-5. Select a shop from the dropdown menu to work with.
-6. Create your base products on Printify (see FAQ for more information).
-7. In the application, choose the base products by selecting them from the product list or entering comma-separated product IDs.
-8. Click "Choose Images" to select the images you want to use to create new products and then click "Upload Images".
-9. (Optional) Enter custom values for image positioning (X, Y), scaling, and angle.
-10. (Optional) Use Image file name as product titles, and append the product blueprint title.
-11. Click "Create Products" to initiate the product creation process.
-12. Once the products are created, click "Publish Products" to publish them from Printify to your store platform.
+- Bulk product creation
+- Custom image upload
+- Template-based product generation
 
- **FAQ**
+## Workflow
 
- **What's a base product?**  
-Your base products are the products that will be duplicated to create new products with the uploaded images. For example, if you create 3 base products (T-shirt, Hoodie, Bag) on Printify and upload 500 images, the application will create 1500 products (500 T-shirts, 500 Hoodies, 500 Bags) automatically. You can then publish all the newly created products to your store (Shopify, and others) with a single click.
+1. API Key Validation
+2. Shop Selection
+3. Product Template Selection
+4. Image Upload
+5. Automated Product Creation
 
- **What scopes does the program need?**  
-To ensure the program functions correctly without granting full access to your account, you can select the following custom scopes when generating your API key:
+## Usage Guide
 
-- Shops.read
-- Catalog.read
-- Products.read
-- Products.write
-- Uploads.write
+### 1. API Key Validation
 
-These custom scopes allow the program to:
-- Read the name/ID of your shops (needed to select your shop)
-- Read Printify's catalogue of products (needed for the Append Blueprint Title option)
-- Read products (needed to fetch your base products for selection and information extraction)
-- Write products (needed to create products)
-- Write images (needed to upload your images)
+- Enter your Printify API key on the initial screen.
+- The tool validates the key and grants access to your shops.
 
- **How do the custom values work?**  
-By default, each new product created will use the same values as the corresponding base product. If you enter a custom value, that custom image position value will be used on all the created products. It is recommended to use custom values only when choosing a single base product, not multiple. For more information on the correct values to enter, refer to the [Printify API documentation](https://developers.printify.com/image-positioning).
+### 2. Shop Selection
 
- **Requirements**
+- Choose the Printify shop where you want to create products.
 
-- Windows operating system
-- Internet connection
-- Printify account with API access
+### 3. Product Template Selection
 
- **Disclaimer**
+- Browse and select existing products from your chosen shop.
+- These will serve as templates for new product creation.
 
-This application is not officially endorsed or affiliated with Printify. Use it at your own risk. The developer is not responsible for any consequences arising from the use of this application.
+### 4. Image Upload
+
+- Upload your custom images.
+- Supports drag-and-drop and multi-file selection.
+
+### 5. Automated Product Creation
+
+- The tool creates new products using selected product templates and uploaded images.
+- All product details (variants, pricing, etc.) are copied from the template.
+
+## Example Use Case
+
+Creating a themed collection:
+
+1. Select three base products: a hoodie, a t-shirt, and sweatpants.
+2. Upload 100 themed designs.
+3. The tool will create 300 new products (100 designs x 3 base products).
+
+## Potential Impact
+
+- Dramatically reduce time spent on product creation.
+- Quickly populate stores with large, diverse product catalogs.
+- Easily create themed collections or test multiple designs.
+
+## Notes
+
+- Ensure template products are fully configured (variants, pricing, etc.).
+
+This tool transforms the product creation process, enabling rapid store expansion and efficient design testing at scale.
