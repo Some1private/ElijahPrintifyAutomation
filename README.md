@@ -1,4 +1,5 @@
-https://github.com/Some1private/ElijahPrintifyAutomation/assets/88380595/a9c669dc-0fd2-4b7f-b581-6dd25042197f
+
+[AwesomeScreenshot-7_24_2024,6_20_01AM.webm](https://github.com/user-attachments/assets/580e9004-8df6-433d-b027-1094fcfd513d)
 
 Free beta web app released: https://app.printifyautomation.com/
 
