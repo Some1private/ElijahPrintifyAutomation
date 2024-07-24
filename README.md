@@ -1,5 +1,5 @@
 
-[](https://github.com/user-attachments/assets/580e9004-8df6-433d-b027-1094fcfd513d)
+[l](https://github.com/user-attachments/assets/580e9004-8df6-433d-b027-1094fcfd513d)
 
 Free beta web app released: https://app.printifyautomation.com/
 
