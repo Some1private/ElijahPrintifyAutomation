@@ -1,5 +1,5 @@
 
-[AwesomeScreenshot-7_24_2024,6_20_01AM.webm](https://github.com/user-attachments/assets/580e9004-8df6-433d-b027-1094fcfd513d)
+[](https://github.com/user-attachments/assets/580e9004-8df6-433d-b027-1094fcfd513d)
 
 Free beta web app released: https://app.printifyautomation.com/
 
