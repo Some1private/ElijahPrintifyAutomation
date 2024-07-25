@@ -1,6 +1,3 @@
-
-[l](https://github.com/user-attachments/assets/580e9004-8df6-433d-b027-1094fcfd513d)
-
 # Printify Automation Tool Documentation
 
 ## Web App
