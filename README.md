@@ -4,6 +4,8 @@
 
 https://app.printifyautomation.com/
 
+The Windows Application has been discontinued. Visit our web app to use the new tool.
+
 ## Overview
 
 This tool automates product creation on Printify, allowing users to generate thousands of products in minutes. It streamlines the process by using existing product templates to create new variations with custom images. The tool now includes Excel import/export functionality for even more efficient bulk product management.
